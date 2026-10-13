@@ -1,8 +1,8 @@
 # Case studies
 
-Public snapshots of client and product work. Each repository is a cleaned copy: the runnable shape of the project, a written account of the problem and the design, and none of the passwords, databases, invoices, or customer files from the working copy.
+Private case studies. Each repository is a cleaned copy: the runnable shape of the project, a written account of the problem and the design, and none of the passwords, databases, invoices, or customer files from the working copy.
 
-The working folders on the machine that built these stay private. These repositories were created as new histories, so older commits that may have held secrets are not part of the public tree.
+The working folders on the machine that built these stay separate. These repositories were created as new histories, so older commits that may have held secrets are not part of this tree. The repositories themselves are private.
 
 ## Sales and telephony
 
